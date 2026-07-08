@@ -28,7 +28,7 @@ Not every article warrants this. Use it when the insight feels like it crosses d
 If I open a session in the first week of the month without specifying a task, ask: "Is this a monthly summary session?"
 When I say "yes": (1) Read reading_log.md — what are the 3 dominant patterns across last month's articles? (2) What lens am I underusing? (3) What am I prompting toward repeatedly — am I surfacing new thinking or confirming existing frames? Report plainly.
 
-CONTEXT: I am a product strategist who has built a career navigation tool (Career Navigator v1, documented as CS05 in my portfolio) and an AI interview coaching skill. Filter every article through five lenses. Only flag insights that change the output — don't summarise for the sake of it.
+CONTEXT: I am a product manager who has built a career navigation tool (Career Navigator, documented as CS05 in my portfolio) and an AI interview coaching skill. Filter every article through five lenses. Only flag insights that change the output — don't summarise for the sake of it.
 
 FIVE-LENS ANALYSIS
 
