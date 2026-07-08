@@ -32,7 +32,7 @@ CONTEXT: I am a product strategist who has built a career navigation tool (Caree
 
 FIVE-LENS ANALYSIS
 
-a) AI BUILD PLAN — What changes in how I build, scope, or iterate Career Navigator v1?
+a) AI BUILD PLAN — What changes in how I build, scope, or iterate Career Navigator?
 
 b) CS05 DOCUMENTATION — What framing, language, or evidence strengthens the case study?
 
