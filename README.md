@@ -1,6 +1,6 @@
 A structured reading-analysis protocol that filters everything I read through the frameworks I'm actively building against, instead of reading passively and hoping insight surfaces on its own.
 
-Built alongside Career Navigator as the second instrumented workflow in a judgment-preservation setup: Navigator evaluates AI output quality, Reading Intelligence evaluates whether repeated AI-assisted analysis is sharpening my thinking or quietly replacing it. What three months of running both showed is written up as a case study: Measurement Design.
+Built alongside [Career Navigator](https://github.com/puritywaigi-git/navigator-v2) as the second instrumented workflow in a judgment-preservation setup: Navigator evaluates AI output quality, Reading Intelligence evaluates whether repeated AI-assisted analysis is sharpening my thinking or quietly replacing it. What three months of running both showed is written up as a case study: [Measurement Design](https://puritywaigi.my.canva.site/casestudies/measurement-design).
 
 The problem this solves
 It's easy to read an article, nod along, and absorb nothing that changes a decision. It's just as easy to let an AI's summary become your opinion before you've formed one of your own. Reading Intelligence is designed against both failure modes at once: it forces a view before analysis starts, and it treats every session as one data point in a longer trajectory.
